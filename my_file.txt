@@ -1,0 +1,6 @@
+Hello, this is the first line.
+This is the second line with a number: 42.
+Final line in the initial file.
+Appending first additional line.
+Appending second line with a number: 100.
+This is the final appended line.
